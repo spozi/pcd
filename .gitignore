@@ -21,8 +21,8 @@ conda-meta/
 envs/
 
 # Ignore Docker-related files
-**/Dockerfile*
-**/docker-compose.override.yml
+# **/Dockerfile*
+# **/docker-compose.override.yml
 **/.docker/
 
 # Ignore Jupyter Notebook checkpoints
